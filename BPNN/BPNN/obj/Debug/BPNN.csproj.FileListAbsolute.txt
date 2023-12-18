@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\BPNN\BPNN\bin\Debug\BPNN.exe.config
+C:\Users\Administrator\source\repos\BPNN\BPNN\bin\Debug\BPNN.exe
+C:\Users\Administrator\source\repos\BPNN\BPNN\bin\Debug\BPNN.pdb
+C:\Users\Administrator\source\repos\BPNN\BPNN\obj\Debug\BPNN.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BPNN\BPNN\obj\Debug\BPNN.Form1.resources
+C:\Users\Administrator\source\repos\BPNN\BPNN\obj\Debug\BPNN.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BPNN\BPNN\obj\Debug\BPNN.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BPNN\BPNN\obj\Debug\BPNN.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BPNN\BPNN\obj\Debug\BPNN.exe
+C:\Users\Administrator\source\repos\BPNN\BPNN\obj\Debug\BPNN.pdb
